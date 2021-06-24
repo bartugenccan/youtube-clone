@@ -1,0 +1,45 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: white;
+}
+
+.header-mid {
+  display: flex;
+  align-items: center;
+  width: 30%;
+  border:1px solid lightgray;
+  border-radius: 2px;
+}
+
+.header-mid > input {
+  flex: 1;
+
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.youtube-logo {
+  height: 25px;
+  object-fit: contain;
+  margin-left: 20px;
+}
+
+.search-button {
+  width: 50px !important;
+  background-color: #fafafa;
+  border-left: 1px solid lightgray;
+  color: gray;
+}
+
+.header-icon {
+  margin-right: 25px;
+}
