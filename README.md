@@ -21,10 +21,19 @@
 # Header
 
 Clicking on the Youtube icon takes you back to the homepage.
+If you type nba in the Search Bar, it will redirect you to the nba search page.
 
 
  <div align="center"><a name="menu"></a>
 
    <img alt="Home Page" src="./public/images/1.PNG" />
+
+</div>
+
+# NBA Search Page
+
+<div align="center"><a name="menu"></a>
+
+   <img alt="Home Page" src="./public/images/4.PNG" />
 
 </div>
