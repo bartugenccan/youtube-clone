@@ -17,3 +17,14 @@
    <img alt="Home Page" src="./public/images/3.PNG" />
 
 </div>
+
+# Header
+
+Clicking on the Youtube icon takes you back to the homepage.
+
+
+ <div align="center"><a name="menu"></a>
+
+   <img alt="Home Page" src="./public/images/1.PNG" />
+
+</div>
